@@ -55,7 +55,7 @@ body, html {
 <div class="bg-text">
   <h1 style="font-size:50px">Naidu Succesfully configured</h1>
   <h2 style="font-size:50px">Thank You Friends</h2>
-  <h2 style="font-size:50px">This is ♥Adikesava Naidu Gandham♥</h2>
+  <h2 style="font-size:50px">Adikesava Naidu Gandham</h2>
   
   
 </div>
