@@ -53,7 +53,9 @@ body, html {
 <div class="bg-image"></div>
 
 <div class="bg-text">
-  <h1 style="font-size:50px">Succesfully configured..!-V3</h1>
+  <h1 style="font-size:50px">Naidu Succesfully configured..!-V3</h1>
+  <h2 style="font-size:50px">Thank You Friends</h2>
+  
 </div>
 
 </body>
